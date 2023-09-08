@@ -1,5 +1,5 @@
 
-- 🔭 Hi, I’m Mohammad Salehnia, I'm working on HINEXT as a Backend Developer
+- 🔭 Hi, my name is Mohammad Salehnia and I work as a Backend Developer at HINEXT.
 - 🌱 I’m currently learning design patterns and solid principles
 - 📫 How to reach me: either via here or my email salehnia.msn@gmail.com
   
