@@ -4,6 +4,8 @@
 - 🔭 Additionally, I have started a new course to learn JAVA.
 - 📫 How to reach me: either via here or my email salehnia.msn@gmail.com
   
+# My Skills
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,git,postman,html,java&theme=dark)](https://skillicons.dev)
 <!--
 **mohammadsalehnia/mohammadsalehnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
