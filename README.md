@@ -1,6 +1,7 @@
 
-- 🔭 Hi, my name is Mohammad Salehnia and I work as a Backend Developer at HINEXT.
-- 🌱 I’m currently learning design patterns and solid principles
+- 👋 Hi, my name is Mohammad Salehnia, and I work as a Backend Developer at HINEXT.
+- 🌱 I’m currently learning design patterns and solid principles.
+- 🔭 Additionally, I have started a new course to learn JAVA.
 - 📫 How to reach me: either via here or my email salehnia.msn@gmail.com
   
 <!--
