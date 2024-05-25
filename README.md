@@ -1,11 +1,11 @@
 
 - 👋 Hi, my name is Mohammad Salehnia
 - 🌱 I’m currently learning design patterns and solid principles.
-- 🔭 Additionally, I have started a new course to learn JAVA.
+- 🔭 Additionally, I have started a new course to learn Python.
 - 📫 How to reach me: either via here or my email salehnia.msn@gmail.com
   
 # My Skills
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,git,postman,html,java&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,git,postman,html,python&theme=dark)](https://skillicons.dev)
 <!--
 **mohammadsalehnia/mohammadsalehnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
