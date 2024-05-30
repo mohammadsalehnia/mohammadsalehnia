@@ -1,7 +1,6 @@
 
 - 👋 Hi, my name is Mohammad Salehnia
 - 🌱 I’m currently learning design patterns and solid principles.
-- 🔭 Additionally, I have started a new course to learn Python.
 - 📫 How to reach me: either via here or my email salehnia.msn@gmail.com
   
 # My Skills
