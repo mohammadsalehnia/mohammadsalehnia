@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: either via here or my email salehnia.msn@gmail.com
 -->
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadsalehnia &theme=radical)
+
+
+
