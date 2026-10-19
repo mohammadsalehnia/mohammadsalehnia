@@ -1,5 +1,5 @@
 ## 
-- 👋 Hi, I'm a **Senior Backend Developer at [Tesmino](https://tesmino.com/)**
+- 👋 Hi, I'm a **Backend Developer at [Tesmino](https://tesmino.com/)**
 - 📫 Reach out via email or LinkedIn.
 
 # My Skills
